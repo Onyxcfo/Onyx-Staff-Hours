@@ -83,6 +83,7 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | 7.1 | **CFO time gets budgeted.** Steven and Lisa Danforth review every client, and that time is in their timesheets. It goes into Karbon **separately from staff work**. | ✅ |
 | 7.2 | **Ad hoc = the open ad hoc work already sitting in Karbon.** Budget each item, not a monthly allowance. | ✅ |
 | 7.3 | Karbon history (since Sept 2025) is too thin to size ad hoc items. **The timesheets are the source.** | ✅ |
+| 7.3b | The CFO step-up in late 2025 is **real**: Lisa Danforth started Oct 2025 and reached a full client load by about Feb 2026. **Use months from Feb 2026 on** as the guide for CFO time and the ad hoc reserve. | ✅ |
 | 7.4 | Size ad hoc items from a **catalog of typical project sizes** (Quick / Small / Medium / Large) taken from timesheet episodes, and keep a **monthly ad hoc reserve** in capacity planning (mostly CFO time). | 📝 |
 
 ## 8. Still open (big ones)
