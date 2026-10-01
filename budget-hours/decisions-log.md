@@ -105,6 +105,7 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 |---|---|---|
 | 8b.1 | The daily cash forecast (VVNS, Sept) is **not ongoing**. The weekly cash flow review budgets stay as they are. | ✅ |
 | 8b.2 | **Jessica takes over most payroll and weekly work.** Lisa oversees it and does high-level reporting. Item budgets don't change, because they're per work item, not per person. | ✅ |
+| 8b.2b | **Lisa's oversight is budgeted as Review: 15 min per occurrence** on VV1012 and VVNS Weekly Bank Settlements and Bi-Weekly Payroll, and on Mountain Trade's Run Payroll in Paychex. | ✅ |
 | 8b.3 | Karbon assignments show only ~30h of Lisa's October work against 113–139h actual. Much of her time sits inside items assigned to others, plus reviews. To see real workload, use **Budget by Team Member**, with review estimates under the reviewer. | ✅ |
 
 ## 9. Still open (big ones)
