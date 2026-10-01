@@ -69,6 +69,7 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | 5.7 | Don't split review vs. admin hours yet. | ✅ |
 | 5.8 | Budget the quarterly review and the January filing as separate pieces. | 📝 |
 | 5.8b | **Small property LLCs** (1402 W Victory, 15650 Northsight, 3540 E Boot Track, 7327 Tierra Buena; 4530 W Flint added as same type): the 2h quarterly 1099 was overstated by 30–60 min. New tier "Small property": **1:15 ongoing quarterly, 2:30 for the Oct 30 catch-up**. | ✅ |
+| 5.8c | **Josephine's 1099 tier edits:** 7327 Tierra Buena → Standard; Amerisource → Standard; Capital Financial → Standard; KAMM → Simple; T5 → Simple; BDP → Complex; FiveOliver → Complex; Southwest Rents → Complex. Oct 30 total ≈ 74.8h. | ✅ |
 | 5.9 | Do the 10 clients at 3 of 7 carry their steps 1–3 work into Q3, or start over? Does the Oct 30 item cover Jan–Sep for every client that wasn't completed? | ❓ |
 
 ## 6. Other work types
