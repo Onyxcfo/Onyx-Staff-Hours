@@ -91,6 +91,7 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | # | Item | Status |
 |---|---|---|
 | 8.1 | Budgets are **per work item, not per person**. CFO review is part of month-end but carried as **its own number** (Work vs. CFO Review columns). | ✅ |
+| 8.1b | In Karbon, review is a **separate budget estimate** (Reviewer · Review), never included in the work estimate. The Karbon Entry tab gives Work time and Review time as two separate numbers. | ✅ |
 | 8.2 | ESI: July was light because the client's controller was out (the work shifted to August). Treated as normal. | ✅ |
 | 8.3 | Capital Financial: the Aug–Sep issue is resolved. Those months are excluded from its baseline. | ✅ |
 | 8.4 | Who takes over Valentina's clients is not yet known. Her clients are marked Low/Medium confidence. | ✅ |
