@@ -36,8 +36,8 @@
 | **Steady** | Median of recent months | e.g. Amerisource, Ed Svcs Holdings, Preferred Reno (post-cleanup), small property LLCs |
 | **Cleanup → settles** | Recent months *after* cleanup ends. Settling takes 2–6 months | Prime Solar, Preferred Reno, Mohrschladt Capital, BeckShar Diamond, BeckShar LLC, Eight Eleven, Midwest |
 | **Opening / changing** | Provisional estimate until 2–3 months in the new form | VVNS, Little Moo's, 909 Main |
-| **Project / ad hoc** | Per project, not monthly | Foothills Reserve, Kartes Leasing, Lucero Trust, Korman, FiveOliver |
-| **Ended / in-house** | No budget | IAG (in-house), possibly ESI and Bjerk (❓) |
+| **Project / ad hoc** | Per project, not monthly | Foothills Reserve, Lucero Trust, Korman, FiveOliver |
+| **Ended / in-house** | No budget | IAG (in-house), **Kartes Leasing (no longer a client)** ✅, possibly ESI and Bjerk (❓) |
 
 Status: 📝 the categories are proposed. ❓ How to decide when cleanup has ended (you decide, or a rule such as 3 months within ±20%).
 
@@ -75,9 +75,15 @@ Status: 📝 the categories are proposed. ❓ How to decide when cleanup has end
 |---|---|---|
 | 6.1 | Year-end / tax-support hours look right as recorded. | ✅ |
 
-## 7. Still open (big ones)
+## 7. CFO time and ad hoc
 
-1. **CFO time:** should a Karbon budget include Steven and Lisa Danforth's CFO time, or only staff time? (Proposal: record both, and plan capacity from staff only.)
-2. **Ad hoc:** a monthly allowance per client, or a budget per project by type?
-3. **Cleanup end:** you decide, or a rule?
-4. Who takes over Valentina's clients?
+| # | Item | Status |
+|---|---|---|
+| 7.1 | **CFO time gets budgeted.** Steven and Lisa Danforth review every client, and that time is in their timesheets. It goes into Karbon **separately from staff work**. | ✅ |
+| 7.2 | **Ad hoc = the open ad hoc work already sitting in Karbon.** Budget each item, not a monthly allowance. How to size each one is still to work out. | ✅ · ❓ method |
+
+## 8. Still open (big ones)
+
+1. **Cleanup end:** you decide, or a rule?
+2. How to size each open ad hoc item.
+3. Who takes over Valentina's clients?
