@@ -111,6 +111,7 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | 8b.2d | **CFO review re-measured from Harvest per close** (close-review entries for Jan–Sep 2026 closes, e.g. "June 2026 Review", "Initial pass of April financials"). Review = median per close (needs 3+ closes; otherwise at least the **0.7h standard**). The earlier monthly-average method understated review because reviews often land in the following month. Where review moved up or down, Work was adjusted by the same amount, so total hours aren't double counted (not applied to reference-based work estimates). | ✅ |
 | 8b.2e | **No 0.7h floor.** Review = time actually logged per close (Steven logs actual time, so his stays as logged). Clients with no close review found (Prestige, Southwest Rents) get a 0.5h placeholder. | ✅ |
 | 8b.2f | **Mountain Trade month-end review = 0:50.** Review happens in the client's CYMA system (5–8 min just to log in, and a complex system); Josephine expects 0.7–1h. | ✅ |
+| 8b.2g | **Quarterly reviews from billing-sheet history:** GAV 1:30 per quarter (Q3 2025 Lisa 1.0 + 0.5; 2024 ~1.5h). Young Wealth 1:00 per quarter (Lisa 0.7–1.25 per quarter, 2025). | ✅ |
 | 8b.3 | Karbon assignments show only ~30h of Lisa's October work against 113–139h actual. Much of her time sits inside items assigned to others, plus reviews. To see real workload, use **Budget by Team Member**, with review estimates under the reviewer. | ✅ |
 
 ## 9. Still open (big ones)
