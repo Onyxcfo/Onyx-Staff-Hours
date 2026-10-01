@@ -39,7 +39,7 @@
 | **Project / ad hoc** | Per project, not monthly | Foothills Reserve, Lucero Trust, Korman, FiveOliver |
 | **Ended / in-house** | No budget | IAG (in-house), **Kartes Leasing (no longer a client)** ✅, possibly ESI and Bjerk (❓) |
 
-Status: 📝 the categories are proposed. ❓ How to decide when cleanup has ended (you decide, or a rule such as 3 months within ±20%).
+Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule**: cleanup is over once 3 months in a row are within ±20% of each other. Budget from the months after that.
 
 ## 4. Client notes
 
@@ -80,10 +80,11 @@ Status: 📝 the categories are proposed. ❓ How to decide when cleanup has end
 | # | Item | Status |
 |---|---|---|
 | 7.1 | **CFO time gets budgeted.** Steven and Lisa Danforth review every client, and that time is in their timesheets. It goes into Karbon **separately from staff work**. | ✅ |
-| 7.2 | **Ad hoc = the open ad hoc work already sitting in Karbon.** Budget each item, not a monthly allowance. How to size each one is still to work out. | ✅ · ❓ method |
+| 7.2 | **Ad hoc = the open ad hoc work already sitting in Karbon.** Budget each item, not a monthly allowance. | ✅ |
+| 7.3 | Karbon history (since Sept 2025) is too thin to size ad hoc items. **The timesheets are the source.** | ✅ |
+| 7.4 | Size ad hoc items from a **catalog of typical project sizes** (Quick / Small / Medium / Large) taken from timesheet episodes, and keep a **monthly ad hoc reserve** in capacity planning (mostly CFO time). | 📝 |
 
 ## 8. Still open (big ones)
 
-1. **Cleanup end:** you decide, or a rule?
-2. How to size each open ad hoc item.
-3. Who takes over Valentina's clients?
+1. Are the ad hoc catalog sizes and the reserve about right?
+2. Who takes over Valentina's clients?
