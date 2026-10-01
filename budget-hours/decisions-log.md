@@ -99,6 +99,14 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | 8.5 | v1 uses: Josephine's closes for the small clients, 1099 tiers and Q2-status factors, catalog sizes for one-time items, VV1012 as the model for VVNS, and suggested new items (Mountain Trade month-end, ESI audit support). All are editable in the workbook. | 📝 review |
 | 8.6 | Check: recurring budgets total ~304 hrs/mo vs. 296–344 recurring hours actually worked Jul–Sep 2026 (excl. IAG). Plus the ad hoc reserve (35), compared with 410–473 total actual hours including cleanup/ad hoc. | ✅ (data) |
 
+## 8b. Staffing changes and the Lisa Danforth sanity check
+
+| # | Item | Status |
+|---|---|---|
+| 8b.1 | The daily cash forecast (VVNS, Sept) is **not ongoing**. The weekly cash flow review budgets stay as they are. | ✅ |
+| 8b.2 | **Jessica takes over most payroll and weekly work.** Lisa oversees it and does high-level reporting. Item budgets don't change, because they're per work item, not per person. | ✅ |
+| 8b.3 | Karbon assignments show only ~30h of Lisa's October work against 113–139h actual. Much of her time sits inside items assigned to others, plus reviews. To see real workload, use **Budget by Team Member**, with review estimates under the reviewer. | ✅ |
+
 ## 9. Still open (big ones)
 
 1. Are the ad hoc catalog sizes and the reserve about right?
