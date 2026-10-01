@@ -86,7 +86,18 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | 7.3b | The CFO step-up in late 2025 is **real**: Lisa Danforth started Oct 2025 and reached a full client load by about Feb 2026. **Use months from Feb 2026 on** as the guide for CFO time and the ad hoc reserve. | ✅ |
 | 7.4 | Size ad hoc items from a **catalog of typical project sizes** (Quick / Small / Medium / Large) taken from timesheet episodes, and keep a **monthly ad hoc reserve** in capacity planning (mostly CFO time). | 📝 |
 
-## 8. Still open (big ones)
+## 8. Budget workbook (v1, Oct 1 2026): `Karbon_Budget_Hours_2026-10.xlsx`
+
+| # | Item | Status |
+|---|---|---|
+| 8.1 | Budgets are **per work item, not per person**. CFO review is part of month-end but carried as **its own number** (Work vs. CFO Review columns). | ✅ |
+| 8.2 | ESI: July was light because the client's controller was out (the work shifted to August). Treated as normal. | ✅ |
+| 8.3 | Capital Financial: the Aug–Sep issue is resolved. Those months are excluded from its baseline. | ✅ |
+| 8.4 | Who takes over Valentina's clients is not yet known. Her clients are marked Low/Medium confidence. | ✅ |
+| 8.5 | v1 uses: Josephine's closes for the small clients, 1099 tiers and Q2-status factors, catalog sizes for one-time items, VV1012 as the model for VVNS, and suggested new items (Mountain Trade month-end, ESI audit support). All are editable in the workbook. | 📝 review |
+| 8.6 | Check: recurring budgets total ~304 hrs/mo vs. 296–344 recurring hours actually worked Jul–Sep 2026 (excl. IAG). Plus the ad hoc reserve (35), compared with 410–473 total actual hours including cleanup/ad hoc. | ✅ (data) |
+
+## 9. Still open (big ones)
 
 1. Are the ad hoc catalog sizes and the reserve about right?
 2. Who takes over Valentina's clients?
