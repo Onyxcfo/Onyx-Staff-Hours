@@ -37,7 +37,7 @@
 | **Cleanup → settles** | Recent months *after* cleanup ends. Settling takes 2–6 months | Prime Solar, Preferred Reno, Mohrschladt Capital, BeckShar Diamond, BeckShar LLC, Eight Eleven, Midwest |
 | **Opening / changing** | Provisional estimate until 2–3 months in the new form | VVNS, Little Moo's, 909 Main |
 | **Project / ad hoc** | Per project, not monthly | Foothills Reserve, Lucero Trust, Korman, FiveOliver |
-| **Ended / in-house** | No budget | IAG (in-house), **Kartes Leasing (no longer a client)** ✅, possibly ESI and Bjerk (❓) |
+| **Ended / in-house** | No budget | IAG (in-house), **Kartes Leasing (no longer a client)** ✅, possibly Bjerk (❓) |
 
 Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule**: cleanup is over once 3 months in a row are within ±20% of each other. Budget from the months after that.
 
@@ -52,6 +52,7 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | T5 / Ed Svcs Holdings | Tavasci Group shared work moved from ESH to T5 when Harvest started, so look at the two together. The month-end itself shouldn't be much more work. Combined hours still rose ~7 → ~19/mo (Jul 2025–Feb 2026 vs Apr–Sep 2026). | ✅ · ❓ why the combined total rose |
 | Capital Financial | Steady 10–20/mo for 18 months. Aug–Sep 30–34 was payroll JE re-entry (Jan–Aug) and reclasses, which is cleanup. | ❓ finished? |
 | Mountain Trade | Rise to 38–51 in Aug–Sep: taking over payroll (Paychex, 401k, PFML), sales tax review, tax audit. | ❓ payroll ongoing? audit one-time? |
+| ESI (Educational Services LLC) | **Active**, Steven's client. The client's in-house controller does the books; Steven reviews and does CFO reporting. Cleanup is done. Not part of staff capacity planning, but it **needs a CFO budget in Karbon** so the work can be handed off if Steven takes leave. | ✅ |
 | Eight Eleven | September low because Christine ran out of time, not because there was less work. | ✅ |
 | Property clients (Catalpa, Rancho, 7327, 1402, 3540, 4530, 15650) | 1099s are harder: many vendors through the property management company, plus Yardi as a second system. | ✅ |
 
