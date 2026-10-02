@@ -113,6 +113,10 @@ Status: 📝 the categories are proposed. ✅ **Cleanup end is decided by a rule
 | 8b.2f | **Mountain Trade month-end review = 0:50.** Review happens in the client's CYMA system (5–8 min just to log in, and a complex system); Josephine expects 0.7–1h. | ✅ |
 | 8b.2g | **Quarterly reviews from billing-sheet history:** GAV 1:30 per quarter (Q3 2025 Lisa 1.0 + 0.5; 2024 ~1.5h). Young Wealth 1:00 per quarter (Lisa 0.7–1.25 per quarter, 2025). | ✅ |
 | 8b.2h | Jessica's Sept controller reviews (GAV 2.25h, Young Wealth 3.5h) were ramp-up. **Not budgeted.** Whether she reviews these quarters going forward is undecided. Revisit after the next quarter. | ✅ / ❓ |
+| 8b.2i | **One budget per recurring series** (Josephine sets a single recurring number). Karbon Entry section 2 is now **planning only**: it lists open items expected to run over or under the recurring number this cycle (Q3 1099 for clients not started in Q2, Southwest Rents catch-up months, overdue Q2 1099s), with the expected extra hours. | ✅ |
+| 8b.2j | 1099: the heavy lifting for "Partly done" clients was done in Q2, so the Q3 factor is lowered from 0.75 to **0.5** (same as Completed). Q4 onward = new vendors added to the client list. | ✅ |
+| 8b.2k | Southwest Rents: the first couple of catch-up months run heavier, then less once the process is recorded and the team member is rolling. | ✅ |
+| 8b.2l | **Joseph Thomas Lucero Trust:** clean-up completed and sent; the client will do his own monthly work. Removed from budgets. | ✅ |
 | 8b.3 | Karbon assignments show only ~30h of Lisa's October work against 113–139h actual. Much of her time sits inside items assigned to others, plus reviews. To see real workload, use **Budget by Team Member**, with review estimates under the reviewer. | ✅ |
 
 ## 9. Still open (big ones)
